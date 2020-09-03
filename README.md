@@ -1,1 +1,1 @@
-# oksdb-logos
+# some-logos
